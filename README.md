@@ -2,11 +2,11 @@
 Here are the screenrecording of the application-
 (Please click on the link in the given order)
 
-https://github.com/The-Wolf25/CarbonWatch/assets/134403686/03f1868c-10b1-4454-ab2d-d736d7880e7d
+https://github.com/The-Wolf25/CarbonWatch/assets/134403686/30ce5ba8-3c81-43de-909c-74b549e64a1a
+https://github.com/The-Wolf25/CarbonWatch/assets/134403686/1da2d8a8-8b85-49b7-922b-094d9d21a8db
+https://github.com/The-Wolf25/CarbonWatch/assets/134403686/b34d49ab-8ae0-4d10-8db4-5e91dcd29a79
 
-https://github.com/The-Wolf25/CarbonWatch/assets/134403686/6e2afdbc-b072-4dbb-848b-d453b7450cd3
 
-https://github.com/The-Wolf25/CarbonWatch/assets/134403686/2bbbe5d6-5387-4cbf-8474-d344364095a1
 
 # CarbonWatch
 Tracks your carbon emission overall in a year,
