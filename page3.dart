@@ -128,18 +128,6 @@ class _page3State extends State<page3> {
               SizedBox(
                 height: 50,
               ),
-              Container(
-                child: Image.asset('Assets/images/cha.png'),
-              ),
-              SizedBox(
-                height: 40,
-              ),
-              Container(
-                child: Image.asset('Assets/images/carbonn.png'),
-              ),
-              SizedBox(
-                height: 60,
-              ),
               InkWell(
                 onTap: () {
                   Navigator.push(
@@ -154,6 +142,21 @@ class _page3State extends State<page3> {
                   text: 'Calculate Again',
                   hieght: 55,
                 ),
+              ),
+              SizedBox(
+                height: 50,
+              ),
+              Container(
+                child: Image.asset('Assets/images/cha.png'),
+              ),
+              SizedBox(
+                height: 40,
+              ),
+              Container(
+                child: Image.asset('Assets/images/carbonn.png'),
+              ),
+              SizedBox(
+                height: 60,
               ),
               SizedBox(
                 height: 75,
