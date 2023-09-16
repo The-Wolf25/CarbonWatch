@@ -291,32 +291,6 @@ class _page2State extends State<page2> {
                               SizedBox(
                                 height: 30,
                               ),
-                              InkWell(
-                                  onTap: () {
-                                    setState(() {});
-                                    button = true;
-                                  },
-                                  child: (button)
-                                      ? AnimatedContainer(
-                                          duration: Duration(seconds: 5),
-                                          child: Appbuttons(
-                                            Textcolor: colors.white,
-                                            Backcolor: colors.shade_four,
-                                            width: 55,
-                                            text: ':)',
-                                            hieght: 25,
-                                          ),
-                                        )
-                                      : AnimatedContainer(
-                                          duration: Duration(seconds: 5),
-                                          child: Appbuttons(
-                                            Textcolor: colors.white,
-                                            Backcolor: colors.shade_four,
-                                            width: 145,
-                                            text: 'Next',
-                                            hieght: 35,
-                                          ),
-                                        )),
                             ],
                           ),
                         )
@@ -343,34 +317,6 @@ class _page2State extends State<page2> {
                               fontsi: 14,
                               text: '',
                               textcolor: Color.fromARGB(255, 88, 87, 87)),
-                          InkWell(
-                              onTap: () {
-                                setState(() {});
-                                button6 = true;
-                              },
-                              child: (button6)
-                                  ? AnimatedContainer(
-                                      duration: Duration(
-                                        seconds: 2,
-                                      ),
-                                      child: Appbuttons(
-                                        Textcolor: colors.white,
-                                        Backcolor: colors.shade_four,
-                                        width: 55,
-                                        text: ':)',
-                                        hieght: 25,
-                                      ),
-                                    )
-                                  : AnimatedContainer(
-                                      duration: Duration(seconds: 2),
-                                      child: Appbuttons(
-                                        Textcolor: colors.white,
-                                        Backcolor: colors.shade_four,
-                                        width: 145,
-                                        text: 'Next',
-                                        hieght: 35,
-                                      ),
-                                    )),
                         ],
                       ),
                     ),
@@ -392,34 +338,6 @@ class _page2State extends State<page2> {
                               fontsi: 14,
                               text: '',
                               textcolor: Color.fromARGB(255, 88, 87, 87)),
-                          InkWell(
-                              onTap: () {
-                                setState(() {});
-                                button3 = true;
-                              },
-                              child: (button3)
-                                  ? AnimatedContainer(
-                                      duration: Duration(
-                                        seconds: 2,
-                                      ),
-                                      child: Appbuttons(
-                                        Textcolor: colors.white,
-                                        Backcolor: colors.shade_four,
-                                        width: 55,
-                                        text: ':)',
-                                        hieght: 25,
-                                      ),
-                                    )
-                                  : AnimatedContainer(
-                                      duration: Duration(seconds: 2),
-                                      child: Appbuttons(
-                                        Textcolor: colors.white,
-                                        Backcolor: colors.shade_four,
-                                        width: 145,
-                                        text: 'Next',
-                                        hieght: 35,
-                                      ),
-                                    )),
                         ],
                       ),
                     ),
@@ -446,34 +364,6 @@ class _page2State extends State<page2> {
                               fontsi: 14,
                               text: '',
                               textcolor: Color.fromARGB(255, 88, 87, 87)),
-                          InkWell(
-                              onTap: () {
-                                setState(() {});
-                                button2 = true;
-                              },
-                              child: (button2)
-                                  ? AnimatedContainer(
-                                      duration: Duration(
-                                        seconds: 2,
-                                      ),
-                                      child: Appbuttons(
-                                        Textcolor: colors.white,
-                                        Backcolor: colors.shade_four,
-                                        width: 55,
-                                        text: ':)',
-                                        hieght: 25,
-                                      ),
-                                    )
-                                  : AnimatedContainer(
-                                      duration: Duration(seconds: 2),
-                                      child: Appbuttons(
-                                        Textcolor: colors.white,
-                                        Backcolor: colors.shade_four,
-                                        width: 145,
-                                        text: 'Next',
-                                        hieght: 35,
-                                      ),
-                                    )),
                         ],
                       ),
                     ),
@@ -495,34 +385,6 @@ class _page2State extends State<page2> {
                               fontsi: 14,
                               text: '',
                               textcolor: Color.fromARGB(255, 88, 87, 87)),
-                          InkWell(
-                              onTap: () {
-                                setState(() {});
-                                button4 = true;
-                              },
-                              child: (button4)
-                                  ? AnimatedContainer(
-                                      duration: Duration(
-                                        seconds: 2,
-                                      ),
-                                      child: Appbuttons(
-                                        Textcolor: colors.white,
-                                        Backcolor: colors.shade_four,
-                                        width: 55,
-                                        text: ':)',
-                                        hieght: 25,
-                                      ),
-                                    )
-                                  : AnimatedContainer(
-                                      duration: Duration(seconds: 2),
-                                      child: Appbuttons(
-                                        Textcolor: colors.white,
-                                        Backcolor: colors.shade_four,
-                                        width: 145,
-                                        text: 'Next',
-                                        hieght: 35,
-                                      ),
-                                    )),
                         ],
                       ),
                     ),
@@ -592,34 +454,6 @@ class _page2State extends State<page2> {
                                   });
                                 }),
                           ),
-                          InkWell(
-                              onTap: () {
-                                setState(() {});
-                                button5 = true;
-                              },
-                              child: (button5)
-                                  ? AnimatedContainer(
-                                      duration: Duration(
-                                        seconds: 2,
-                                      ),
-                                      child: Appbuttons(
-                                        Textcolor: colors.white,
-                                        Backcolor: colors.shade_four,
-                                        width: 55,
-                                        text: ':)',
-                                        hieght: 25,
-                                      ),
-                                    )
-                                  : AnimatedContainer(
-                                      duration: Duration(seconds: 2),
-                                      child: Appbuttons(
-                                        Textcolor: colors.white,
-                                        Backcolor: colors.shade_four,
-                                        width: 145,
-                                        text: 'Next',
-                                        hieght: 35,
-                                      ),
-                                    )),
                         ],
                       ),
                     ),
