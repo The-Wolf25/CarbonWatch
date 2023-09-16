@@ -54,7 +54,7 @@ class _page5State extends State<page5> {
                           )));
             },
             child: Container(
-              child: Image.asset('Assets/images/bac.png', fit: BoxFit.contain),
+              color: colors.shade_four,
             ),
           ),
         ),
@@ -190,6 +190,7 @@ class _page5State extends State<page5> {
                   _mil.clear();
                   _min.clear();
                   _total.clear();
+                   
                 },
                 child: Appbuttons(
                   Textcolor: colors.white,
