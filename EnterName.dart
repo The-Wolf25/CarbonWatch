@@ -3,6 +3,7 @@ import 'package:carbonwatch/Widgets_Reuse/Appbuttons.dart';
 import 'package:carbonwatch/Widgets_Reuse/Colors.dart';
 import 'package:carbonwatch/Widgets_Reuse/text.dart';
 import 'package:carbonwatch/Widgets_Reuse/textfield.dart';
+import 'package:carbonwatch/Widgets_Reuse/textfieldfortext.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/src/foundation/key.dart';
 import 'package:flutter/src/widgets/framework.dart';
@@ -51,7 +52,7 @@ class _EnternameState extends State<Entername> {
                       SizedBox(
                         height: 18,
                       ),
-                      MyWidget(
+                      MyWidgett(
                           con: _name,
                           backgroundcolor: colors.shade_two,
                           fontsi: 16,
