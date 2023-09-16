@@ -15,12 +15,8 @@ The optional availability to donate to reduce carbon emission is also given
 
 
 
+![Screenshot_2023-09-16-18-28-29-502_com example carbonwatch](https://github.com/The-Wolf25/CarbonWatch/assets/134403686/ac9b2a1f-89c6-4723-b5cb-18948c35b650)
 
-![Screenshot_2023-09-16-18-28-29-502_com example carbonwatch]
-
-
-
-(https://github.com/The-Wolf25/CarbonWatch/assets/134403686/612ff071-5b65-4804-8055-b24844451add)
 ![Screenshot_2023-09-16-18-28-33-365_com example carbonwatch](https://github.com/The-Wolf25/CarbonWatch/assets/134403686/f3f5e155-f2dc-43d9-a2c2-ed578bb00228)
 ![Screenshot_2023-09-16-19-05-32-943_com example carbonwatch](https://github.com/The-Wolf25/CarbonWatch/assets/134403686/724326d5-4d5f-4233-bed1-dca04ef3b6c2)
 ![Screenshot_2023-09-16-19-05-49-795_com example carbonwatch](https://github.com/The-Wolf25/CarbonWatch/assets/134403686/83a2ca24-a199-49ba-a595-7570b8566986)
