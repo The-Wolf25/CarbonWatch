@@ -1,8 +1,22 @@
+
+https://github.com/The-Wolf25/CarbonWatch/assets/134403686/fbc73032-a9ee-4dc3-9294-d1d2f4bfbf4b
 # CarbonWatch
 Tracks your carbon emission overall in a year,
 Also tracks in your daily activities along with providing tips on how to reduce it. 
 The optional availability to donate to reduce carbon emission is also given
-![Screenshot_2023-09-16-18-28-29-502_com example carbonwatch](https://github.com/The-Wolf25/CarbonWatch/assets/134403686/612ff071-5b65-4804-8055-b24844451add)
+
+
+https://github.com/The-Wolf25/CarbonWatch/assets/134403686/03f1868c-10b1-4454-ab2d-d736d7880e7d
+https://github.com/The-Wolf25/CarbonWatch/assets/134403686/6e2afdbc-b072-4dbb-848b-d453b7450cd3
+https://github.com/The-Wolf25/CarbonWatch/assets/134403686/2bbbe5d6-5387-4cbf-8474-d344364095a1
+
+
+
+![Screenshot_2023-09-16-18-28-29-502_com example carbonwatch]
+
+
+
+(https://github.com/The-Wolf25/CarbonWatch/assets/134403686/612ff071-5b65-4804-8055-b24844451add)
 ![Screenshot_2023-09-16-18-28-33-365_com example carbonwatch](https://github.com/The-Wolf25/CarbonWatch/assets/134403686/f3f5e155-f2dc-43d9-a2c2-ed578bb00228)
 ![Screenshot_2023-09-16-19-05-32-943_com example carbonwatch](https://github.com/The-Wolf25/CarbonWatch/assets/134403686/724326d5-4d5f-4233-bed1-dca04ef3b6c2)
 ![Screenshot_2023-09-16-19-05-49-795_com example carbonwatch](https://github.com/The-Wolf25/CarbonWatch/assets/134403686/83a2ca24-a199-49ba-a595-7570b8566986)
