@@ -49,7 +49,7 @@ class _page6State extends State<page6> {
                           )));
             },
             child: Container(
-              child: Image.asset('Assets/images/bac.png', fit: BoxFit.contain),
+              color: colors.shade_four,
             ),
           ),
         ),
